@@ -1,0 +1,30 @@
+h1 {
+	font-size: 3em;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+table {
+	margin: 5px;
+}
+
+td {
+	text-align: center;
+	border: 1px solid black;
+	padding: 3px;
+}
+
+table tr:first-child td {
+	font-weight: bold;
+}
+
+#header {
+	text-align: center;
+	margin: 5px;
+}
+
+#content {
+	margin: 5px;
+}

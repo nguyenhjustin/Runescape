@@ -3,5 +3,5 @@ Runescape
 
 Website: for my scaping needs
 
-TODO:
+TODO:  
 -obtain price information from the Grand Exchange using Runescape's API
